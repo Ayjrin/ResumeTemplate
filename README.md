@@ -33,7 +33,7 @@ It comes with commented sections for font choices (serif, sans serif, and monosp
 
 ## Screenshots
 
-  ![Resume Preview](screenshots/fullResume.png)
+  ![Resume Preview](screenshots/resumeTemplate.png)
 
 ## Contributing
 
